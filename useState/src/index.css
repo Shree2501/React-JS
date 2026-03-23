@@ -1,0 +1,29 @@
+*{
+  background-color: black;
+  color: white;
+}
+
+button{
+  padding: 10px;
+  margin: 10px;
+  background-color: rgba(255, 246, 246, 0.829);
+  color: black;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+h1{
+  padding: 10px;
+  margin: 10px;
+  background-color: rgba(240, 248, 255, 0.88);
+  color: black;
+  width: 160px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  font-size: 4rem;
+  font-weight: bold;
+}

@@ -1,0 +1,33 @@
+*{
+  color: white;
+}
+
+body{
+  height: 100%;
+  background-color: black;
+}
+
+h1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 100px;
+  transform: translate(-50%,-50%);
+  text-decoration: underline;
+}
+
+.nav{
+  padding: 20 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(30, 99, 127);
+  padding-left: 10px;
+}
+
+.nav div{
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  padding: 15px;
+}
